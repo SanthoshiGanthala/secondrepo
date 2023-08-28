@@ -4,5 +4,7 @@ class first
 	{
 		System.out.println("This is frst program");
 		System.out.println("This is added after commit");
+		System.out.println("This is added");
 	}
+
 }
